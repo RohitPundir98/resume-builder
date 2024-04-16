@@ -56,9 +56,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 ## Links for the project
 
-Deployment Link :
-
-Youtube Link :
+Deployment Link : https://resume-builder-by-rohit.netlify.app/
 
 ## Solely done by
 
